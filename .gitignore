@@ -1,0 +1,6 @@
+.obsidian/
+*.exe
+*.dll
+*.so
+.DS_Store
+Thumbs.db
